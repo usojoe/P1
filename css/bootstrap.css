@@ -4,6 +4,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+.container {
+			width:50%;
+			min-width:600px;
+			margin-bottom:50px;
+		}	
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -62,6 +69,7 @@ dfn {
 h1 {
   margin: .67em 0;
   font-size: 2em;
+  text-align:center;
 }
 mark {
   color: #000;
@@ -85,6 +93,9 @@ sub {
 }
 img {
   border: 0;
+  display:block;
+  margin:auto;
+  width:50%;
 }
 svg:not(:root) {
   overflow: hidden;
