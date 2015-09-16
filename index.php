@@ -25,21 +25,21 @@
 <h1>Joseph Lee - Project 1</h1>
 		<img src='https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAM_AAAAJGVhZWYwODkxLTg0MjMtNGQyNC04MjVmLTA4MzU2ZWFlMDM2MA.jpg' alt='Joseph A. Lee'>
         
-        <h3>Project 1</h3>
-        View: p1.josephandrewlee.com
-        Github: https://github.com/usojoe/P1 
+        <h3>Project 1 - Introductions</h3>
+		View: <a href="p1.josephandrewlee.com">p1.josephandrewlee.com</a> <br>
+		Github: <a href="https://github.com/usojoe/P1">P1 Repository</a>
 		
 		<h3>Project 2 Title</h3>
-		View: p3.josephandrewlee.com
-		Github: https://github.com/usojoe/P2
+		View: <a href="p2.josephandrewlee.com">p2.josephandrewlee.com</a> <br>
+		Github: <a href="https://github.com/usojoe/P2">P2 Repository</a>
 		
 		<h3>Project 3 Title</h3>
-		View: p3.josephandrewlee.com
-		Github: https://github.com/usojoe/P3
+		View: <a href="p3.josephandrewlee.com">p3.josephandrewlee.com</a> <br>
+		Github: <a href="https://github.com/usojoe/P3">P3 Repository</a>
 		
 		<h3>Project 4 Title</h3>
-		View: p4.josephandrewlee.com
-		Github: https://github.com/usojoe/P1
+		View: <a href="p4.josephandrewlee.com">p4.josephandrewlee.com</a> <br>
+		Github: <a href="https://github.com/usojoe/P4">P4 Repository</a>
 		
 		<h2>In two sentences describe who you are and what you do.</h2>
 		<p>I am a multimedia journalist for the USO (United Services Organization) and my job is basically to report to the American people about the day-to-day goodness provided by their congressionally chartered nonprofit. I'm working on an ALM in Journalism at the extension school, and I should graduate next spring. Before working at the USO I was an active duty Marine Combat Correspondent for approximately 10 years.</p>
