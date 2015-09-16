@@ -26,7 +26,7 @@
 		<img src='https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAM_AAAAJGVhZWYwODkxLTg0MjMtNGQyNC04MjVmLTA4MzU2ZWFlMDM2MA.jpg' alt='Joseph A. Lee'>
         
         <h3>Project 1 - Introductions</h3>
-		View: <a href="p1.josephandrewlee.com">p1.josephandrewlee.com</a> <br>
+		View: <a href="/">p1.josephandrewlee.com</a> <br>
 		Github: <a href="https://github.com/usojoe/P1">P1 Repository</a>
 		
 		<h3>Project 2 Title</h3>
