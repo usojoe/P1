@@ -30,7 +30,7 @@
 		Github: <a href="https://github.com/usojoe/P1">P1 Repository</a>
 		
 		<h3>Project 2 Title</h3>
-		View: <a href="p2.josephandrewlee.com">p2.josephandrewlee.com</a> <br>
+		View: <a href="/P2">p2.josephandrewlee.com</a> <br>
 		Github: <a href="https://github.com/usojoe/P2">P2 Repository</a>
 		
 		<h3>Project 3 Title</h3>
