@@ -30,15 +30,15 @@
 		Github: <a href="https://github.com/usojoe/P1">P1 Repository</a>
 		
 		<h3>Project 2 Title</h3>
-		View: <a href="/P2">p2.josephandrewlee.com</a> <br>
+		View: <a href="http://p2.josephandrewlee.com">p2.josephandrewlee.com</a> <br>
 		Github: <a href="https://github.com/usojoe/P2">P2 Repository</a>
 		
 		<h3>Project 3 Title</h3>
-		View: <a href="p3.josephandrewlee.com">p3.josephandrewlee.com</a> <br>
+		View: <a href="http://p3.josephandrewlee.com">p3.josephandrewlee.com</a> <br>
 		Github: <a href="https://github.com/usojoe/P3">P3 Repository</a>
 		
 		<h3>Project 4 Title</h3>
-		View: <a href="p4.josephandrewlee.com">p4.josephandrewlee.com</a> <br>
+		View: <a href="http://p4.josephandrewlee.com">p4.josephandrewlee.com</a> <br>
 		Github: <a href="https://github.com/usojoe/P4">P4 Repository</a>
 		
 		<h2>In two sentences describe who you are and what you do.</h2>
