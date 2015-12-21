@@ -38,7 +38,7 @@
 		Github: <a href="https://github.com/usojoe/loremipsum">P3 Repository</a>
 
 		<h3>Project 4 Title</h3>
-		View: <a href="http://lockerly.josephandrewlee.com">lockerly.josephandrewlee.com</a> <br>
+		View: <a href="http://p4.josephandrewlee.com">p4.josephandrewlee.com</a> <br>
 		Github: <a href="https://github.com/usojoe/lockerly.git">P4 "Lockerly" Repository</a>
 
 		<h2>In two sentences describe who you are and what you do.</h2>
