@@ -38,8 +38,8 @@
 		Github: <a href="https://github.com/usojoe/loremipsum">P3 Repository</a>
 
 		<h3>Project 4 Title</h3>
-		View: <a href="http://p4.josephandrewlee.com">p4.josephandrewlee.com</a> <br>
-		Github: <a href="https://github.com/usojoe/P4">P4 Repository</a>
+		View: <a href="http://lockerly.josephandrewlee.com">lockerly.josephandrewlee.com</a> <br>
+		Github: <a href="https://github.com/usojoe/lockerly.git">P4 "Lockerly" Repository</a>
 
 		<h2>In two sentences describe who you are and what you do.</h2>
 		<p>I am a multimedia journalist for the USO (United Services Organization) and my job is basically to report to the American people about the day-to-day goodness provided by their congressionally chartered nonprofit. I'm working on an ALM in Journalism at the extension school, and I should graduate next spring. Before working at the USO I was an active duty Marine Combat Correspondent for approximately 10 years.</p>
